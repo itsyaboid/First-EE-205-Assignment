@@ -7,4 +7,4 @@
 * I chose my major for the BIG BUCKS 💸!.. and because I love learning about and working with computers
 * A fun fact about me: The first game I played was the Minecraft alpha
 * What do I want to learn from EE 205? I want to learn how I can use programming in the workplace!
-* A book or movie I'd recommend is: Macbeth 
+* A book or movie I'd recommend is: ~~Macbeth (uses too much old English)~~ The Bluest Eye
